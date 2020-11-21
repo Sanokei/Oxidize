@@ -1,0 +1,30 @@
+{
+	"parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+	"overrides": [
+	
+		{ "predicate": {"custom_model_data":0100000100}, "model": "custom/item/npc/0000/arm/NpcArmRotation_0" },
+		{ "predicate": {"custom_model_data":0100000101}, "model": "custom/item/npc/0000/arm/NpcArmRotation_1" },
+		{ "predicate": {"custom_model_data":0100000102}, "model": "custom/item/npc/0000/arm/NpcArmRotation_2" },
+		{ "predicate": {"custom_model_data":0100000103}, "model": "custom/item/npc/0000/arm/NpcArmRotation_3" },
+		{ "predicate": {"custom_model_data":0100000104}, "model": "custom/item/npc/0000/arm/NpcArmRotation_4" },
+		{ "predicate": {"custom_model_data":0100000105}, "model": "custom/item/npc/0000/arm/NpcArmRotation_5" },
+		{ "predicate": {"custom_model_data":0100000106}, "model": "custom/item/npc/0000/arm/NpcArmRotation_6" },
+		{ "predicate": {"custom_model_data":0100000107}, "model": "custom/item/npc/0000/arm/NpcArmRotation_7" },
+		
+		{ "predicate": {"custom_model_data":0100000200}, "model": "custom/item/npc/0000/chest/NpcLegRotation_0" },
+		{ "predicate": {"custom_model_data":0100000201}, "model": "custom/item/npc/0000/chest/NpcLegRotation_1" },
+		{ "predicate": {"custom_model_data":0100000202}, "model": "custom/item/npc/0000/chest/NpcLegRotation_2" },
+		{ "predicate": {"custom_model_data":0100000203}, "model": "custom/item/npc/0000/chest/NpcLegRotation_3" },
+		{ "predicate": {"custom_model_data":0100000204}, "model": "custom/item/npc/0000/chest/NpcLegRotation_4" },
+		
+		{ "predicate": {"custom_model_data":0100000300}, "model": "custom/item/npc/0000/chest/NpcChest_0" },
+		{ "predicate": {"custom_model_data":0100000301}, "model": "custom/item/npc/0000/chest/NpcChest_1" },
+		{ "predicate": {"custom_model_data":0100000302}, "model": "custom/item/npc/0000/chest/NpcChest_2" },
+		{ "predicate": {"custom_model_data":0100000303}, "model": "custom/item/npc/0000/chest/NpcChest_3" },
+		{ "predicate": {"custom_model_data":0100000304}, "model": "custom/item/npc/0000/chest/NpcChest_4" }
+		
+	]
+}

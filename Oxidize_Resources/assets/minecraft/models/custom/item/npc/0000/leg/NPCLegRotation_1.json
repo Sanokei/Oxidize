@@ -1,0 +1,47 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/item/npc/0000/leg/LegTexture",
+		"particle": "custom/item/npc/0000/leg/LegTexture"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [6, 8.37849, 4.93015],
+			"to": [10, 15.37849, 8.93015],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [14, 10.37849, 12.93015]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 7], "texture": "#0"},
+				"east": {"uv": [0, 0, 4, 7], "texture": "#0"},
+				"south": {"uv": [0, 0, 4, 7], "texture": "#0"},
+				"west": {"uv": [0, 0, 4, 7], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [6, 0, 6],
+			"to": [10, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 8, 14]},
+			"faces": {
+				"north": {"uv": [0, 6, 4, 12], "texture": "#0"},
+				"east": {"uv": [0, 6, 4, 12], "texture": "#0"},
+				"south": {"uv": [0, 6, 4, 12], "texture": "#0"},
+				"west": {"uv": [0, 6, 4, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"down": {"uv": [0, 11, 4, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [111.5, 0, 0],
+			"translation": [-4, -2.5, -5.3]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [111.5, 0, 0],
+			"translation": [-4, -2.75, -5.3]
+		}
+	}
+}
