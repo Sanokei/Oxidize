@@ -1,0 +1,10 @@
+name: Oxidize
+version: 0.1.2 pre-alpha
+author: Sano
+main: github.sanokei.oxidize.Main
+description: My take on rust but in minecraft
+
+commands:
+   ping:
+      description: This command is to get a pong message when called and the ping of the user.
+      usage: "Usage:\n/ping\n/ping <Player>]"

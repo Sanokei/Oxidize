@@ -1,0 +1,18 @@
+general-topics:
+   Rules:
+      shortText: Rules of the server
+      fullText: |
+         &61. No hacking, we have an anti-cheat software which will ban you for hacking.
+         &62. Report exploits. We want to keep the server fair. Please report any exploits however minor they are.
+         &63. No real life scamming. Scamming in game is allowed however scamming for real life money is illegal and will be banned and flaged.
+         &64. Do not doxx. Under any circumstances. A mod or admin will help in any situation, do not try to resolve matters in this way.
+         &65. Do not abusing reporting players.
+index-topics:
+   Ping Command:
+      shortText: See your ping or anothers. See if someone is online.
+      preamble:
+   Group Commands:
+      shortText: Commands for players to be part of a Group
+      preamble: Use these commands to add, remove or disband a Group
+      commands:
+         - /clan
